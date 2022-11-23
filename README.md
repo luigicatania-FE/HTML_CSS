@@ -1,2 +1,2 @@
-# FE022-ProgettoSettimana1 - Progetto: layout completo
-## HTML + CSS
+# Layout completo di una pagina web 
+## HTML + CSS (Primo approccio ai linguaggi base del Front End)
